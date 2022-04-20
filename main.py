@@ -7,6 +7,7 @@ Created on Thu Dec  2 22:36:17 2021
 """
 
 # kommentar online eingefuegt
+# und noch was hinzugefuegt
 
 from Printer import Printer
 
